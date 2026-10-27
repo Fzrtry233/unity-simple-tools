@@ -1,0 +1,7 @@
+{
+  "name": "com.fzr.simple-tools",
+  "version": "0.1.0",
+  "displayName": "FZR Simple Tools",
+  "description": "我的第一个 Unity 工具包",
+  "unity": "6000.0"
+}
